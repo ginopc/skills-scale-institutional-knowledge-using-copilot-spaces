@@ -7,3 +7,4 @@ Execution emphasizes small, testable increments and a visible workflow (Backlog 
 Roles and responsibilities are explicit. Product Managers define outcomes, success metrics, and backlog priorities; Project Managers coordinate delivery, schedules, communications, and risks; Developers implement features and tests; QA validates acceptance; and Stakeholders provide input and approvals. Escalation paths and communication templates are documented so issues and incidents can be triaged consistently.
 
 Quality assurance is built into the lifecycle: unit and integration tests for new logic, end‑to‑end smoke tests for critical flows, CI-enforced linting and security scans, and manual QA where needed. Releases require pre-release checks, staging verification, a rollback/mitigation plan, and post-deploy verifications. Retrospectives capture learnings and translate them into tracked action items to support continuous improvement.
+
